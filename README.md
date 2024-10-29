@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Chhavi Khandelwal</h1>
 <h3 align="center">Artificial Intelligence and Machine Learning student at JECRC UNIVERSITY</h3>
-<img align="top" alt="coding" width="970" height="600 "src="https://media.tenor.com/Aw2-4sShkCUAAAAe/coding.png ">
+<img align="top" alt="coding" width="970" height="570 "src="https://media.tenor.com/Aw2-4sShkCUAAAAe/coding.png ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhavikh&label=Profile%20views&color=0e75b6&style=flat" alt="chhavikh" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **chhavikh4096@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
